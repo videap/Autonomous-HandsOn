@@ -1,5 +1,5 @@
 # Autonomous-HandsOn
-Arquivos para HandsOn de Autonomous Transaction Processing
+Arquivos para HandsOn de Autonomous
 
 
 -Os arquivos dos scripts SQL estão na pasta SQL Files. É necessário fazer download destes arquivos para este HandsOn.
